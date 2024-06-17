@@ -1,0 +1,28 @@
+
+.container{
+    
+      background-color:rgb(42, 42, 54);
+      padding: 30px;
+      border-radius: 10px;
+      min-height: 90vh;
+      color: aliceblue;
+ 
+
+    
+}
+.innerblock{
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.outputtextblock{
+    border-radius: 10px;
+    background-color: black;
+    min-width: 70vh;
+    max-width: 75vh;
+    min-height: 50vh;
+    padding: 10px;
+}

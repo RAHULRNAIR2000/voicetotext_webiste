@@ -51,7 +51,7 @@ const VoiceInput = () => {
       </Ripples>
 
       
-       <p>Recognized Text</p>
+       <p>Tap to Speak</p>
       <div className='outputtextblock'>
 
       <p>{recognizedText}</p>
